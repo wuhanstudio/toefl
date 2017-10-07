@@ -1,6 +1,6 @@
 influx  
 reasonable  
-abundant   
+abundant  
 conceivable  
 jeopardize  
 keen  
@@ -29,7 +29,7 @@ spark
 plight  
 hollow  
 swell  
-posses  
+possess  
 captivity  
 raise  
 disastrous  
