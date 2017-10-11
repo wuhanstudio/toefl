@@ -8,6 +8,7 @@
 	* [Word List 3](Basics/Wordlist-3.md)
 	* [Word List 4](Basics/Wordlist-4.md)
 	* [Word List 5](Basics/Wordlist-5.md)
+	* [Word List 6](Basics/Wordlist-6.md)
 
 * [主题词汇](Topical/Topical.md)
 

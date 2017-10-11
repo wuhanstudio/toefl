@@ -1,0 +1,52 @@
+1.Machine Learning
+2.Ichthyology  
+"plate tectonics" "retina" "terminology"
+
+3.Masters Project
+"hydrogel" "gel" "elastic" nontoxic toxic/poisonous 
+"ravage"
+
+4.1 Crawling a website using Python 
+beatifulsoup
+scrapy
+pinpoint
+
+4.2 Smart Router
+recompile firmware OpenWRT
+operating system
+install packages / run programs
+
+5.Others' Operating System 
+
+6.My own OS & Portble Excution (PE)
+Bootloader
+Kernel
+Assembly 
+Your brain has two components.
+The left has nothing right,the right has nothing left.
+
+7.Penetration Test
+1) ip   : scan
+2) port : scan
+3) web application
+4) exploit 
+5) metasploitable nmap credentials domain controller
+
+8.Powershell
+dynamic link library (DLL) C#
+auto-complete
+Verb-Noun
+
+9. Wireshark
+10. ?
+
+--------------------------------------------------------
+ 
+Embedded Programming  
+
+1. 51 Series                                      8 bits
+2. Arduino                 --> AVR     (Atmel)    8 bits
+3. NodeMCU / STM32                  (Cortex-M)   32 bits
+4. NanoPi  / RaspberryPi   --> ARM  (Cortex-A)   32 bits
+
+5. Intel / AMD              (Operating Sysyem)   64 bits
