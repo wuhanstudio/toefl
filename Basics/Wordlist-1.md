@@ -1,7 +1,7 @@
 despondent  
 bald  
 obscure  
-indigent  
+indigant  
 slope  
 decrease  
 hardly  
