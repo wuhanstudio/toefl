@@ -10,7 +10,7 @@ reluctant
 loathsome  
 optimal  
 irritate  
-panic 
+panic  
 resent  
 afloat  
 modest  
