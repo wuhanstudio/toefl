@@ -1,4 +1,5 @@
 1.Machine Learning
+
 2.Ichthyology  
 "plate tectonics" "retina" "terminology"
 
@@ -50,3 +51,16 @@ Embedded Programming
 4. NanoPi  / RaspberryPi   --> ARM  (Cortex-A)   32 bits
 
 5. Intel / AMD              (Operating Sysyem)   64 bits
+
+-----------------------------------
+
+Recap
+
+51 Series : Keil (IDE) + STC-ISP  
+Arduino   : Arduino IDE
+AVR 	  : ICC-AVR
+	  	  : ATmel Studio + progisp
+	  	  : AVR-GCC + avrdude + Makefile
+
+STM32	  : keil + uCos + uclinux
+
