@@ -22,6 +22,7 @@
 	* [Word List 17](Basics/Wordlist-17.md)
 	* [Word List 18](Basics/Wordlist-18.md)
 	* [Word List 19](Basics/Wordlist-19.md)
+	* [Word List 20](Basics/Wordlist-20.md)
 
 * [主题词汇](Topical/Topical.md)
 
