@@ -48,7 +48,7 @@ fix
 so-called  
 explore  
 hinder  
-grand  
+grant  
 flame  
 imprecise  
 prospect  

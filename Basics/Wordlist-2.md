@@ -57,7 +57,7 @@ dote
 cease  
 uniformity  
 adobe  
-prohibit  
+prohibitive  
 compel  
 notorious  
 arid  
