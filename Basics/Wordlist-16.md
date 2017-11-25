@@ -74,5 +74,6 @@ defense
 gouge  
 resolve  
 swear  
+allay  
 deplete  
 relative  

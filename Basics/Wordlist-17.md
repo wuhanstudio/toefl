@@ -63,7 +63,7 @@ grading
 complacence  
 fumigate  
 occupy  
-revere  
+reveal  
 grazing  
 lasting  
 harsh  

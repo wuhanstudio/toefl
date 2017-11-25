@@ -30,7 +30,7 @@ cast
 tolerable  
 block  
 drastic  
-strip  
+stripe  
 extravagant  
 vicinity  
 adjoin  
@@ -44,7 +44,7 @@ base
 mischievous  
 transcend  
 construction  
--prevailing  
+prevailing  
 demolish  
 situated  
 besiege  
