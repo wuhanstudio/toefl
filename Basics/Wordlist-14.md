@@ -6,7 +6,7 @@ equivalent
 terrific  
 fabulous  
 roll  
-intend  
+intent  
 gilding  
 obligate  
 handful  
