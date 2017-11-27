@@ -16,7 +16,7 @@ tend
 imperative  
 trial  
 unprecedented  
-weired  
+weird  
 incredible  
 margin  
 fade  
