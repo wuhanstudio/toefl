@@ -15,7 +15,7 @@ vague
 sharpen  
 dismay  
 vary  
-compel  
+compare  
 warp  
 assail  
 craftsman  
@@ -28,12 +28,12 @@ forerunner
 prudent  
 vast  
 rancher  
-confident  
+confidant  
 altruistic  
 considerate  
 scene  
 typical  
-vary  
+varied  
 append  
 former  
 strategic  

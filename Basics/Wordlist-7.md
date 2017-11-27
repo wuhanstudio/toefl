@@ -46,7 +46,7 @@ concur
 vicious  
 inverse  
 stray  
-catholic  
+Catholic  
 tolerant  
 stylish  
 dignity  

@@ -11,7 +11,7 @@ complementary
 wretch  
 confirm  
 awesome  
-spiny  
+spinning  
 liable  
 verge  
 lower  
