@@ -26,6 +26,11 @@
 	* [Word List 21](Basics/Wordlist-21.md)
 
 * [主题词汇](Topical/Topical.md)
+	* [物理学](Topical/Physics.md) 
+	* [数学](Topical/Math.md) 
+	* [经济](Topical/Economy.md) 
+	* [科技](Topical/Science.md) 
+
 
 * [场景词汇](Occasional/Occasional.md)
 	* [日常生活1](Occasional/Dailylife-1.md)
