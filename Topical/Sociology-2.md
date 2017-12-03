@@ -30,7 +30,7 @@ nomadic
 offspring  
 opal  
 origin  
-originate
+originate  
 ornamental  
 orthodox  
 outrageous  
@@ -46,7 +46,7 @@ pharaoh
 pluralism  
 polygamous  
 polygamy  
-populate 
+populate  
 porcelain  
 posthumous  
 potency  

@@ -148,7 +148,7 @@ simile
 slogan  
 subscribe  
 supplement  
-syllable
+syllable  
 symbol  
 synonym  
 syntactic  

@@ -26,7 +26,7 @@ bureau
 cabinet  
 campaign  
 candidate  
-canvas 
+canvas  
 charter  
 civil  
 client  

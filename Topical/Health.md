@@ -72,7 +72,7 @@ infection
 infectious  
 infest  
 infirm  
-inflammation 
+inflammation  
 influenza  
 inject  
 insanity  
@@ -105,7 +105,7 @@ paralyze
 parasite  
 passive  
 pathological  
-pathology
+pathology  
 patient  
 penicillin  
 perception  
