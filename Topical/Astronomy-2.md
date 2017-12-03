@@ -2,7 +2,7 @@ meridian
 meteor  
 meteorite  
 meteorological  
-meteorologist
+meteorologist  
 meteorology  
 mine  
 missile  
