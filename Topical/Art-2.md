@@ -24,7 +24,7 @@ mural
 muse  
 musical  
 musician  
-musicologist
+musicologist  
 mythology  
 neoclassical  
 novel  
