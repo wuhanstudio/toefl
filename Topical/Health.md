@@ -35,7 +35,7 @@ contamination
 curative  
 deadly  
 delirium  
-decent  
+descent  
 detectable  
 diagnose  
 disease  
@@ -137,7 +137,7 @@ secrete
 sensory  
 sewage  
 sewerage  
-skeleton  
+skeletal  
 skull  
 slumber  
 soothe  

@@ -20,14 +20,14 @@ awful
 awkward  
 bagel  
 bait  
-bake
+bake  
 bandanna  
 barber  
 barrel  
 barrier  
 basement  
 bead  
-belows  
+bellows  
 beverage  
 blade  
 blanket  
@@ -154,7 +154,7 @@ lighthearted
 linen  
 litter  
 livelihood  
-locomotive
+locomotive  
 loose  
 lost-and-found  
 maglev  

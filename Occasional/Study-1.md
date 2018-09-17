@@ -10,7 +10,7 @@ acquire
 acumen  
 adept  
 administer  
-adolescent  
+adolescence  
 agenda  
 alumnus  
 amateur  

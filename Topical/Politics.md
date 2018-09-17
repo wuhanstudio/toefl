@@ -26,7 +26,7 @@ bureau
 cabinet  
 campaign  
 candidate  
-canvas  
+canvass  
 charter  
 civil  
 client  
@@ -136,7 +136,7 @@ presidency
 pretension  
 priority  
 privilege  
-prove  
+proof  
 proposal  
 prosecute  
 protest  

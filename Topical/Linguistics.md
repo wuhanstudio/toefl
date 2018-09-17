@@ -1,5 +1,5 @@
 abbreviate  
-accent   
+accent  
 acquisition  
 acronym  
 adjunct  

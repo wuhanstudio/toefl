@@ -70,7 +70,7 @@ sidewalk
 sieve  
 skyscraper  
 sleigh  
-snake  
+snack  
 snap  
 soak  
 sore  

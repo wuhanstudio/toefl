@@ -2,7 +2,7 @@ abbey
 acoustic  
 admission  
 adventure  
-aerobic  
+aerobics  
 affinity  
 amble  
 amusement  
@@ -88,7 +88,7 @@ muscle
 ornate  
 outfit  
 overnight  
-oversleep
+oversleep  
 parachute  
 participant  
 picky  
